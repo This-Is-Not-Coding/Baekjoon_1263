@@ -1,4 +1,4 @@
-# :page_facing_up: Baekjoon_1263
+# :page_facing_up: 시간 관리
 
 ### 🔗 문제 링크: https://www.acmicpc.net/problem/1263
 ### :skull: 난이도: 골드 5 (Gold 5)
